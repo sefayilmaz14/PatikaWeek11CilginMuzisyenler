@@ -1,0 +1,6 @@
+@PatikaWeek11CilginMuzisyenler_HostAddress = http://localhost:5074
+
+GET {{PatikaWeek11CilginMuzisyenler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
